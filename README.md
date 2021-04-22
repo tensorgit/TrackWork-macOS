@@ -1,6 +1,8 @@
 # TrackWork-macOS
 ## Python coded desktop GUI app to track project times at work and home.
 
+<img src="images/TW_welcome-gui.JPEG">
+<img src="images/TW_main-gui.JPEG">
 Latest version: 1.2
 
 **What is TrackWork?**
