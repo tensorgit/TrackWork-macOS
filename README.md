@@ -3,7 +3,7 @@
 
 <img src="images/TW_welcome-gui.JPEG">
 <img src="images/TW_main-gui.JPEG">
-Latest version: 1.2
+Latest version: v1.2
 
 **What is TrackWork?**
 ---
