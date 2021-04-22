@@ -12,7 +12,7 @@ However, its usage can go further beyond.
 
 **How do I launch it?**
 ---
-Once the zipped file is unpacked, place the folder in your desired location and simply launch the TrackWork app
+Once the zipped file is unpacked, place the folder in your desired location and simply launch the TrackWork.app
 
 **How does it work?**
 ---
@@ -49,6 +49,6 @@ for the current project
 ---
 - DO NOT delete the build folder as it contains binaries required to run the .exe which are not embedded within the .exe itself
 - Once you start using it, the content that you enter will be saved in database and shelved files in the same folder where the .exe file is located. If you delete these
-files, the stored content will be lost. You have an option of selectively deleting 'Projects' in the Setup GUI
+files, the stored content will be lost.
 - Each time you 'End/Reset' or 'Close' a session, the session summary will be shown in a separate window as well as stored in a text file within the same folder
 - If you quit the App using the 'X' button at the top right corner, the session summary will NOT be saved
